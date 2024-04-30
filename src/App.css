@@ -18,8 +18,12 @@ ul {
     cursor: pointer;
 }
 
+.color_chng {
+    transition: 300ms linear;
+}
+
 .color_chng:hover {
-    color: black;
+    color: black !important;
 }
 
 
@@ -486,7 +490,9 @@ h5 {
     border: 1px solid #FFFFFF26;
 }
 
-.target_box:hover {}
+.target_box:hover {
+    background-color: red;
+}
 
 
 .max_w_312 {
@@ -941,7 +947,7 @@ h5 {
     }
 
     .mobile-view {
-        background-color: #3B3CCC;
+        background-color: #C6D3E4;
         width: 100%;
         height: 100%;
         display: flex;
