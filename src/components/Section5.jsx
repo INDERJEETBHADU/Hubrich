@@ -59,7 +59,7 @@ function Section5() {
               <button className=" mb-0 ff-inter text_gradient fw-medium  text-16 lh-24 max_w_292 session-btn  d-flex align-items-center text-capitalize  ">
                 <img src={btnsvg} alt="btnsvg" />
                 <span className="">
-                  Book a non-binding initial consultation now
+                  Book a  non-binding initial consultation now
                 </span>
               </button>
             </div>
