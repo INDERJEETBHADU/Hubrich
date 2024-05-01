@@ -13,7 +13,7 @@ function Navbr() {
       <nav>
         <div className="container">
           <div className=" d-flex align-items-center justify-content-between pt-4">
-            <img src={logo} alt="logo" />
+            <img className=" cursor_pointer" src={logo} alt="logo" />
 
             <ul
               className={` ${
